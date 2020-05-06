@@ -1,0 +1,1 @@
+v1 - Moved this over from TimHanewichNetStandardToolkit. May 5, 2020
