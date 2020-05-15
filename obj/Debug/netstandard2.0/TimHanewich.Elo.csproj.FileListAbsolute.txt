@@ -7,3 +7,12 @@ C:\Users\TaHan\Documents\GitHub\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHane
 C:\Users\TaHan\Documents\GitHub\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHanewich.Elo.AssemblyInfo.cs
 C:\Users\TaHan\Documents\GitHub\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHanewich.Elo.dll
 C:\Users\TaHan\Documents\GitHub\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHanewich.Elo.pdb
+C:\Users\tihanewi\Downloads\TimHanewich.Elo\bin\Debug\netstandard2.0\TimHanewich.Elo.deps.json
+C:\Users\tihanewi\Downloads\TimHanewich.Elo\bin\Debug\netstandard2.0\TimHanewich.Elo.dll
+C:\Users\tihanewi\Downloads\TimHanewich.Elo\bin\Debug\netstandard2.0\TimHanewich.Elo.pdb
+C:\Users\tihanewi\Downloads\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHanewich.Elo.csprojAssemblyReference.cache
+C:\Users\tihanewi\Downloads\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHanewich.Elo.csproj.CoreCompileInputs.cache
+C:\Users\tihanewi\Downloads\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHanewich.Elo.AssemblyInfoInputs.cache
+C:\Users\tihanewi\Downloads\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHanewich.Elo.AssemblyInfo.cs
+C:\Users\tihanewi\Downloads\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHanewich.Elo.dll
+C:\Users\tihanewi\Downloads\TimHanewich.Elo\obj\Debug\netstandard2.0\TimHanewich.Elo.pdb
