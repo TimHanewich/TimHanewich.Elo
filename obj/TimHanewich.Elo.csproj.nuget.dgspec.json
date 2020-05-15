@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TaHan\\Documents\\GitHub\\TimHanewich.Elo\\TimHanewich.Elo.csproj": {}
+    "C:\\Users\\tihanewi\\Downloads\\TimHanewich.Elo\\TimHanewich.Elo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TaHan\\Documents\\GitHub\\TimHanewich.Elo\\TimHanewich.Elo.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\tihanewi\\Downloads\\TimHanewich.Elo\\TimHanewich.Elo.csproj": {
+      "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TaHan\\Documents\\GitHub\\TimHanewich.Elo\\TimHanewich.Elo.csproj",
+        "projectUniqueName": "C:\\Users\\tihanewi\\Downloads\\TimHanewich.Elo\\TimHanewich.Elo.csproj",
         "projectName": "TimHanewich.Elo",
-        "projectPath": "C:\\Users\\TaHan\\Documents\\GitHub\\TimHanewich.Elo\\TimHanewich.Elo.csproj",
-        "packagesPath": "C:\\Users\\TaHan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TaHan\\Documents\\GitHub\\TimHanewich.Elo\\obj\\",
+        "projectPath": "C:\\Users\\tihanewi\\Downloads\\TimHanewich.Elo\\TimHanewich.Elo.csproj",
+        "packagesPath": "C:\\Users\\tihanewi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tihanewi\\Downloads\\TimHanewich.Elo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\TaHan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tihanewi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

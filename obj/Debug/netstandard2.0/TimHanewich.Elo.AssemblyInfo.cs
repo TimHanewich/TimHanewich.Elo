@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("The Elo rating system, commonly used in chess and other sports.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimHanewich.Elo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimHanewich.Elo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.0.0")]
