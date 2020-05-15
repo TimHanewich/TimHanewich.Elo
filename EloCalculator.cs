@@ -4,9 +4,7 @@ namespace TimHanewich.Elo
 {
     public class EloCalculator
         {
-            private const int K = 50;
-
-            public EloResult CalculateNewElo(int player1rating, int player2rating, GameResult result)
+            public EloResult CalculateNewElo(int player1rating, int player2rating, GameResult result, int K = 50)
             {
                 EloResult ReturnInstance = new EloResult();
                 ReturnInstance.Player1OldRating = player1rating;
